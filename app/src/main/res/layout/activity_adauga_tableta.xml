@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        android:id="@+id/holban_sebastian_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/id_hint"
+        android:inputType="number"
+        android:maxLength="6" />
+
+    <EditText
+        android:id="@+id/holban_sebastian_model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/model_hint"
+        android:inputType="text" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/memorie_text" />
+
+    <Spinner
+        android:id="@+id/holban_sebastian_memorie"
+        android:layout_width="match_parent"
+        android:layout_height="48dp" />
+
+    <CheckBox
+        android:id="@+id/holban_sebastian_garantie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/garantie_text" />
+
+    <Button
+        android:id="@+id/holban_sebastian_salveaza"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/salveaza" />
+</LinearLayout>

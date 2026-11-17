@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen Tablete</string>
+    <string name="titlu">Magazin de tablete</string>
+    <string name="adauga">Adauga tableta</string>
+    <string name="salveaza">Salveaza tableta</string>
+    <string name="id_hint">ID tableta</string>
+    <string name="model_hint">Model tableta</string>
+    <string name="memorie_text">Memorie GB</string>
+    <string name="garantie_text">Are garantie</string>
+    <string name="eroare">Completeaza toate campurile!</string>
+    <string name="contor_initial">Tablete salvate: 0</string>
+    <string name="contor">Tablete salvate: %1$d</string>
+
+    <string-array name="memorii">
+        <item>64</item>
+        <item>128</item>
+        <item>256</item>
+    </string-array>
+</resources>

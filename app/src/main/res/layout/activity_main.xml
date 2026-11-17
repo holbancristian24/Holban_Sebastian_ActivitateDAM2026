@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titlu"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/holban_sebastian_contor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contor_initial"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/holban_sebastian_adauga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/adauga" />
+</LinearLayout>
