@@ -1,0 +1,7 @@
+#Wed Nov 18 22:21:01 EET 2026
+base.0=C\:\\Users\\holba\\AndroidStudioProjects\\RepoDAM\\lab 02-03\\Laborator02-03\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\holba\\AndroidStudioProjects\\RepoDAM\\lab 02-03\\Laborator02-03\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+path.0=0/classes.dex
+path.1=7/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

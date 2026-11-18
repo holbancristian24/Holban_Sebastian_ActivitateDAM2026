@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "ro.ase.dam.lab23.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\holba\\AndroidStudioProjects\\RepoDAM\\lab 02-03\\Laborator02-03\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "345",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "98",
+                        "endColumns": "338",
+                        "endOffsets": "432"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\holba\\AndroidStudioProjects\\RepoDAM\\lab 02-03\\Laborator02-03\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "49",
+                        "endOffsets": "49"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        }
+    ]
+}

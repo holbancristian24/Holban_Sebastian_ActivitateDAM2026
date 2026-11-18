@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:1-5:27
+INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:1-5:27
+INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:1-5:27
+INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:1-5:27
+	package
+		INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:70-5:16
+INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:70-5:16
+	android:extractNativeLibs
+		INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:110-142
+	android:allowBackup
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:83-109
+	android:theme
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:143-174
+activity#ro.ase.dam.lab23.SecondActivity
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:10-229
+	android:exported
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:51-74
+	android:name
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:20-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:75-218
+action#android.intent.action.MAIN
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:90-142
+	android:name
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:98-139
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:142-202
+	android:name
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:152-199
+activity#ro.ase.dam.lab23.ThirdActivity
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:3:9-76
+	android:exported
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:3:49-73
+	android:name
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:3:19-48
+activity#ro.ase.dam.lab23.MainActivity
+ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:4:2-68
+	android:exported
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:4:41-65
+	android:name
+		ADDED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:4:12-40
+uses-sdk
+INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml

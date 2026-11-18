@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ro.ase.dam.lab23"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="24" />
+10
+11    <application
+11-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:70-5:16
+12        android:allowBackup="true"
+12-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:83-109
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="@string/app_name"
+15-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:110-142
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:1:143-174
+18        <activity
+18-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:10-229
+19            android:name="ro.ase.dam.lab23.SecondActivity"
+19-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:20-50
+20            android:exported="true" >
+20-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:51-74
+21            <intent-filter>
+21-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:75-218
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:90-142
+22-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:98-139
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:142-202
+24-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:2:152-199
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:3:9-76
+28            android:name="ro.ase.dam.lab23.ThirdActivity"
+28-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:3:19-48
+29            android:exported="false" />
+29-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:3:49-73
+30        <activity
+30-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:4:2-68
+31            android:name="ro.ase.dam.lab23.MainActivity"
+31-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:4:12-40
+32            android:exported="false" />
+32-->C:\Users\holba\AndroidStudioProjects\RepoDAM\lab 02-03\Laborator02-03\app\src\main\AndroidManifest.xml:4:41-65
+33    </application>
+34
+35</manifest>

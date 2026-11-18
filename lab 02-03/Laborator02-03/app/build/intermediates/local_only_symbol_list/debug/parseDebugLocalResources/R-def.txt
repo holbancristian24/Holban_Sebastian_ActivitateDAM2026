@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+id backWithResult
+id mesaj
+id nr1
+id nr2
+id openSecond
+id raspuns
+id sendThird
+id thirdText
+layout activity_main
+layout activity_second
+layout activity_third
+string app_name
+style AppTheme

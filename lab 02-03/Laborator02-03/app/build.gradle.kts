@@ -1,0 +1,7 @@
+plugins { id("com.android.application") }
+ android {
+     namespace = "ro.ase.dam.lab23"
+     compileSdk = 35
+     defaultConfig { applicationId = "ro.ase.dam.lab23"; minSdk = 24; targetSdk = 24; versionCode = 1; versionName = "1.0" }
+     compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }
+ }
